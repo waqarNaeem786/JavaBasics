@@ -42,5 +42,5 @@ public class vars {
 
 }
 ```
-![vars image](/home/pikes/Pictures/Screenshots/vars.png)
+![vars image](/home/pikes/Documents/projects/Java/shots/vars.png)
     
