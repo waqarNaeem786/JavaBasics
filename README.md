@@ -173,7 +173,7 @@ System.out.println();
 }
 
 ```
-![](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/conditionals.png)
+![](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/conditoinals.png)
 
 
 # OOP
