@@ -46,4 +46,7 @@ public class vars {
 }
 ```
 ![vars image](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/vars.png)
+
+# TypeCasting
+It is the process of changing the type of variable.
     
