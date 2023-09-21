@@ -42,5 +42,5 @@ public class vars {
 
 }
 ```
-![vars image](/home/pikes/Documents/projects/Java/shots/vars.png)
+![vars image](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/vars.png)
     
