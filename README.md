@@ -63,4 +63,4 @@ public static void main(String[] args){
 
 }
 ```
-![Typecasting](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/typecasting.png) 
+![Typecasting](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/taypecasting.png) 
