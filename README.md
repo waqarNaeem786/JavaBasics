@@ -173,6 +173,9 @@ System.out.println();
 }
 
 ```
+![](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/conditionals.png)
+
+
 # OOP
 it is comprised of:
     1. class
@@ -223,4 +226,4 @@ public static void main(String[] args){
 ```
 The above code uncovers the object and class declaration, also it depicts various ways of object intialisation.
 
-
+![](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/oop.png)
