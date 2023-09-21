@@ -3,13 +3,16 @@
 
 ## Variables
 - The Number of variables are divided into three types:
-    1- Static
-    2- local
-    3- Instance
+    1. Static
+    2. local
+    3. Instance
 
-### Static
-- Static variables are the variables which are declared once in the program and its instance can be used more than once in the programe.
-
+### Static Variabales
+`Static variables are the variables which are declared once in the program and its instance can be used more than once in the programe.`
+### local Variables
+`Local variables are declared inside the method and there scope is limited to that method`
+### instance
+`Instance variables are declared inside the class but outside the body of method`
 ```java
 public class vars {
 		
