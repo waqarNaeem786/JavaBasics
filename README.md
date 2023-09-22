@@ -227,3 +227,101 @@ public static void main(String[] args){
 The above code uncovers the object and class declaration, also it depicts various ways of object intialisation.
 
 ![](https://github.com/waqarNaeem786/JavaBasics/blob/main/shots/oop.png)
+
+
+# Method
+methods are the functions being used inside the class, there are two types of methods in Java:
+ 1. predifned/built-in methods.
+ 2. user-defined methods.
+
+## predifined methods
+    ``` java
+        
+        length();// it is used to check the size of array or characters in string.
+        sqrt();// it is used to take square root of number
+        compareTo(); //etc
+
+
+	```
+## user-defined
+- These methods are provoked by the user inside the class.
+- user defined methods are packed with access modifiers which changes there ability to be accessed from different parts of code:
+	- public-> mostly used.
+	- private-> mostly used.
+	- protected
+	- default
+```java
+    public class methods{
+    	public static void main(String[] args){
+    		// number addition
+    		int a = 15;
+    		int b = 21;
+    		int c = add(a, b);
+    		System.out.println(c);
+    	}
+
+    	public int add(int n1, int n2){
+    		int total = n1 + n2;
+    		return total;
+    	}
+
+}
+
+```
+- Getter and setter methods are defined in the above code
+
+## constructor Method
+This is invoked when object of a class created, it has same name as class.
+```java
+	public class exp{
+		exp(){
+			System.out.println("constructor was created");
+		}
+		public static void main(String[] args){
+			exp obj = new exp();
+
+		}
+	}
+
+	
+```
+- Concepts which can be achieved with constructor are:
+1.paramater overloading
+2.copy constructor
+
+
+# Inheritance 
+
+- In Inheritance functionality of one class is derives by other class, there are two types of class parent and child class, parent which is base class and child which driving from parent class.
+- `extends` keyword is derive functionality from child class.
+
+```java
+	class parentClass{
+		void parentC(){System.out.println("This is parent class");}
+	}
+
+	 class child extends parentClass{
+	 	void childC(){System.out.println("This is Child class");}
+	 }
+
+	 class test{
+		 public static void main(String[] args) {
+		 	child c = new child();
+		 	c.childC;
+		 	c.parentC;
+	 	}
+	 }
+```
+
+
+# Arrays
+- Arrays are data strutures in java which are used to store data in linear form
+
+```java
+
+```
+
+
+
+
+
